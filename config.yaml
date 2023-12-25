@@ -1,4 +1,4 @@
 pushplus_token: 82c868a36c614558935f8341150752f7 ## pushplus推送token
 refresh_token: e6fd49eea6bc4f58aaa9fa2813f934c0 ## 阿里云网盘刷新token
-bilibili_cookie:  ## B站cookie
+bilibili_cookie: SESSDATA=9f5cbd0e%2C1718977181%2C690f5%2Ac2CjC8u8JdY6IDkk3OIumhzS4fz31ujFeIhXskdLIk_6ZD3gKWtQAqwZinpzL7jleqvg8SVnpIcmVUVDNoWW9DSjZaOEFta09ZMzd5ZFVGaVFtU2JnLTVXbVFDdmV3OHlEOExkVUFKOHRZVVFvM3BVaTc2REk5NFJqamtLVUlqbXNTdnUza0FoNEdnIIEC  ## B站cookie
 jd_cookie:  ##京东cookie
